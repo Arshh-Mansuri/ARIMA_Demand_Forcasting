@@ -1,5 +1,5 @@
 # ARIMA_Demand_Forcasting
-<h1>A demand forcasting notebook  by using the ARIMA model .</h1>h1<br>
+<h1>A demand forcasting notebook  by using the ARIMA model .</h1><br>
 <h3>Steps</h3>
 <br>
   Perform Exploratory Data Analysis<br>
